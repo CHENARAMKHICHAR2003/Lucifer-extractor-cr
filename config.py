@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "10170481"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","22dd74455eb31c9aca628c3008580142")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8385442255:AAECnpBTbgDU9ha35yl6qj-33nGhkBNwCfw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8385442255:-33nGhkBNwCfw")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Course_extct_bot")
 BOT_TEXT = "𝐈𝐓'𝐬𝐆𝐎𝐋𝐔"
